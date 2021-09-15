@@ -6,7 +6,7 @@ namespace BuildJenkins
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("chào mừng các bạn tới với joingame");
         }
     }
 }
